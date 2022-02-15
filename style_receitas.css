@@ -1,0 +1,23 @@
+h2{
+    font-size: 22px;
+    text-align: center;
+    color: lightcoral;
+    font-family: 'Brush Script MT', Helvetica, Garamond, sans-serif;
+}
+
+ol li{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(77, 59, 23);
+}
+
+ul li{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(77, 59, 23);
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
